@@ -1,0 +1,8 @@
+{
+  "name": "blackboard-convert-format-number",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Iceberg-incorporation/blackboard-convert-format-number.git",
+  "author": "Nutthapat Piasangka <n.devs260340@gmail.com>",
+  "license": "MIT"
+}
